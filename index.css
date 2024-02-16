@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+}
+
+.navbar{
+  background-color:white;
+  color:black;
+  height: 60px;
+  text-align: center;
+}
+.logo{
+  font-size: 20px;
+  margin: 10px;
+}
+img{
+  height: 30px;
+  width: 30px;
+  
+}
+
+.anc{
+  padding-left: 300px;
+}
+a{
+  padding-left: 30px;
+}
+.box2{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 250px;
+}
+.heading {
+  padding-top: 100px;
+}
+
+.btn{
+  padding-top: 50px;
+}
+
+.btn2{
+  margin-left: 10px;
+}
+
+.section{
+  background-color:gray;
+  height: 250px;
+  width: 250;
+  padding-left: 200px;
+  padding-top: 60px;
+  align-items: center;
+  display: flex;
+}
+.section1{
+  height: 250;
+  width:50%;
+}
+.setion2{
+  height: 250px;
+  width: 250px;
+}
+.image{
+  height: 200px;
+  width: 50%;
+}
+
+.foot{
+  background-color: black;
+  height: 100px;
+  color: white;
+  text-align: center;
+
+}
+
+.para{
+  font-size: 50px;
+}
+
+.card{
+  height: 300px;
+  width: 500px;
+  background-color:gray;
+  color:black;
+}
+.card1{
+  height: 300px;
+  width: 500px;
+  background-color:black;
+  color:white;
+
+}
+.card-container1,.card-container2,.card-container3,.card-container4{
+  display: flex;
+}
+
+s1{
+  padding-left: 20px;
+  text-align: center;
+}
